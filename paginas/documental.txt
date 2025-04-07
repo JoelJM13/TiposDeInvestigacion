@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Investigación Documental</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <div class="container">
+
+    <!-- Sección izquierda - Contenido principal -->
+    <div class="content">
+      <h1>INVESTIGACIÓN DOCUMENTAL</h1>
+      <p>
+        Probablemente una de las investigaciones más conocidas y famosas de todas, hablemos un poco sobre ella.
+      </p>
+
+      <h2>¿Qué es la investigación documental?</h2>
+      <p>
+        La investigación documental es un tipo de estudio que se basa en la recopilación, análisis e interpretación
+        de información existente en libros, artículos, informes, archivos históricos y documentos oficiales. Su
+        objetivo es obtener conocimiento a partir de fuentes ya publicadas, sin realizar experimentos o encuestas.
+      </p>
+
+      <h2>Importancia</h2>
+      <p>
+        1. Permite analizar información ya existente sin necesidad de generar nuevos datos.<br />
+        2. Es fundamental en historia, derecho, sociología y ciencias de la comunicación.<br />
+        3. Ayuda a construir bases teóricas para otras investigaciones (exploratorias, descriptivas, explicativas, etc.).<br />
+        4. Facilita la comparación de diferentes perspectivas sobre un mismo tema.
+      </p>
+
+      <h2>Ejemplo</h2>
+      <h3>Revisión de leyes y sentencias para fundamentar un caso jurídico</h3>
+      <p>
+        En el ámbito del derecho, la investigación documental es fundamental para analizar leyes, normativas y sentencias
+        previas con el fin de respaldar argumentos en un caso jurídico. Los abogados y jueces estudian códigos legales,
+        jurisprudencias y doctrinas para interpretar y aplicar correctamente la ley en cada situación.<br />
+        Por ejemplo, en un juicio sobre derechos laborales, un abogado puede investigar casos similares donde los tribunales
+        hayan emitido fallos relevantes. Esto le permite fortalecer su estrategia legal y presentar precedentes que respalden
+        su postura ante el juez.<br />
+        Este tipo de investigación es clave en la toma de decisiones judiciales, asegurando que los casos sean resueltos de
+        acuerdo con la normativa vigente y con base en experiencias previas.
+      </p>
+
+      <h2>¿Tienes alguna duda sobre este tipo de investigación?</h2>
+      <p>
+        No te preocupes, te dejamos el siguiente mapa conceptual el cual explica a detalle y de manera resumida de lo que
+        trata este tipo de investigación:
+      </p>
+      <img src="imagenes/mapas/documental.jpg" alt="Mapa" class="img-mapa" />
+
+      <h2>Para que todo quede más claro, te dejamos el siguiente video explicativo:</h2>
+      <p>
+        Esperamos que con el siguiente video puedas resolver tus dudas y te quede más claro este tipo de investigación.
+      </p>
+      <video width="600" controls>
+        <source src="videos/documental.mp4" type="video/mp4" />
+        Tu navegador no soporta el video.
+      </video>
+    </div>
+
+    <!-- Sección derecha - Datos curiosos, imagen y botón -->
+    <div class="sidebar">
+      <a href="../index.html" class="boton-regresar">Regresar a la página principal</a>
+
+      <h2>¿Cómo saber si es una inv. documental?</h2>
+      <b><p>🔎 Pues bien, acaso buscas…?</p></b>
+      <p>
+        Recolectar información de fuentes escritas o digitales.<br /><br />
+        Analizar documentos sin hacer experimentos o encuestas.<br /><br />
+        Construir un marco teórico para un estudio más profundo.
+      </p>
+
+      <b><p>💡 ¿Te has preguntado…?</p></b>
+      <p>
+        ¿Cómo ha evolucionado la educación a lo largo del tiempo?<br /><br />
+        ¿Qué impacto han tenido ciertos eventos históricos en la sociedad actual?<br /><br />
+        ¿Cómo se han desarrollado las leyes de un país a lo largo de los años?
+      </p>
+
+      <b>
+        <p>
+          📌 Si tus respuestas son "sí" a alguna de estas preguntas, entonces estás pensando en la investigación documental.
+        </p>
+      </b>
+
+      <img src="imagenes/saber4.png" alt="¿Cómo saber?" class="img-curiosidades" />
+
+      <h2>CURIOSIDADES</h2>
+      <p>
+        👀 Los descubrimientos de civilizaciones antiguas se han basado en investigaciones documentales de textos y códices.<br /><br />
+        👀 Wikipedia y enciclopedias digitales se construyen a partir de la investigación documental de diversas fuentes.<br /><br />
+        👀 Muchas teorías filosóficas y científicas modernas se han desarrollado revisando textos antiguos y comparándolos con nuevos descubrimientos.
+      </p>
+
+      <img src="imagenes/sabias4.png" alt="Curiosidades sobre la investigación" class="img-curiosidades" />
+    </div>
+
+  </div>
+</body>
+
+</html>

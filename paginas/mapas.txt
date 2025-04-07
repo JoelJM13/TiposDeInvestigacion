@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapas conceptuales</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Sección izquierda - Contenido principal -->
+        <div class="content">
+            <h1>MAPAS CONCEPTUALES </h1>
+            <p>Aquí podrás encontrar la información resumida de cada una de las investigaciones que hay en esta página web. Esperamos que te sea de gran ayuda y puedas consultarla las veces que te sea necesaria</p>
+            
+            <h2>Investigación pura</h2>
+            <img src="imagenes/mapas/pura.jpg" alt="Mapa" class="img-mapa">
+            
+            <h2>Investigación aplicada</h2>
+            <img src="imagenes/mapas/aplicada.jpg" alt="Mapa" class="img-mapa">
+            
+            <h2>Investigación cualitativa</h2>
+            <img src="imagenes/mapas/cualitativa.jpg" alt="Mapa" class="img-mapa">
+            
+            <h2>Investigación cuantitativa</h2>
+            <img src="imagenes/mapas/cuantitativa.jpg" alt="Mapa" class="img-mapa">
+            
+            <h2>Investigación explicativa</h2>
+            <img src="imagenes/mapas/explicativa.jpg" alt="Mapa" class="img-mapa">
+            
+            <h2>Investigación descriptiva</h2>
+            <img src="imagenes/mapas/descriptiva.jpg" alt="Mapa" class="img-mapa">
+            
+            <h2>Investigación explorativa</h2>
+            <img src="imagenes/mapas/exploratoria.jpg" alt="Mapa" class="img-mapa">
+            
+            <h2>Investigación documental</h2>
+            <img src="imagenes/mapas/documental.jpg" alt="Mapa" class="img-mapa">
+            
+            <h2>Investigación de campo</h2>
+            <img src="imagenes/mapas/de campo.jpg" alt="Mapa" class="img-mapa">
+            
+            <h2>Investigación experimental</h2>
+            <img src="imagenes/mapas/experimental.jpg" alt="Mapa" class="img-mapa">
+            
+            <h2>Investigación no experimental</h2>
+            <img src="imagenes/mapas/no experimental.jpg" alt="Mapa" class="img-mapa">
+            
+            <h2>Investigación transversal</h2>
+            <img src="imagenes/mapas/transversal.jpg" alt="Mapa" class="img-mapa">
+            
+            <h2>Investigación longitudinal</h2>
+            <img src="imagenes/mapas/longitudinal.jpg" alt="Mapa" class="img-mapa">
+        </div>
+
+        <!-- Sección derecha - Datos curiosos, imagen y botón -->
+        <div class="sidebar">
+            <a href="../index.html" class="boton-regresar">Regresar a la página principal</a>
+
+            <h2>¿Para qué es necesario conocer cada tipo de investigación?</h2>
+            <p>
+                <b>Conocer los distintos tipos de investigación es fundamental porque:<br><br></b>
+                🔍 Te permite elegir el enfoque adecuado según el objetivo de tu estudio.<br><br>
+                🔍 Ayuda a planificar mejor tu proyecto, desde la recolección de datos hasta el análisis.<br><br>
+                🔍 Evita errores metodológicos que podrían invalidar tus resultados.<br><br>
+                🔍 Te da claridad sobre qué tipo de conocimiento estás generando: si estás buscando aplicar algo, describir, explorar o explicar un fenómeno.<br><br>
+                🔍 Facilita la interpretación de resultados y su aplicación práctica o teórica.
+            </p>
+
+            <img src="imagenes/tipos.webp" alt="Curiosidades sobre la investigación" class="img-curiosidades">
+
+            <h2>¿Para qué estos mapas?</h2>
+            <p>
+                <b>Los mapas conceptuales tienen un gran valor porque:<br><br></b>
+                1. Organizan la información de manera visual y sencilla, lo cual mejora la comprensión.<br><br>
+                2. Permiten ver las relaciones entre conceptos clave, como objetivos, técnicas, ejemplos y características.<br><br>
+                3. Ayudan a memorizar más rápido, ya que convierten textos complejos en esquemas fáciles de entender.<br><br>
+                4. Fomentan el pensamiento crítico, al obligarte a analizar y clasificar la información.<br><br>
+                5. Sirven como guía rápida para repasar o explicar a otros los distintos tipos de investigación.
+            </p>
+
+            <img src="imagenes/organizar.png" alt="Curiosidades sobre la investigación" class="img-curiosidades">
+
+            <h2>¿Cómo aprender a identificarlos con facilidad?</h2>
+            <p>
+                Aquí van algunos consejos prácticos:<br><br>
+                <b>Fíjate en el objetivo principal del estudio:<br><br></b>
+                ¿Busca aplicar conocimientos?<br> Aplicada<br><br>
+                ¿Busca generar teoría?<br> Pura<br><br>
+                ¿Quiere describir una realidad? Descriptiva<br><br>
+                ¿Analiza causas o relaciones?<br> Explicativa<br><br>
+                ¿Solo explora sin conclusiones firmes? Explorativa<br><br>
+            </p>
+
+            <img src="imagenes/objetivo.webp" alt="Curiosidades sobre la investigación" class="img-curiosidades">
+
+            <p>
+                <b>Observa el enfoque metodológico:<br><br></b>
+                ¿Usa números y estadísticas? <br>Cuantitativa<br><br>
+                ¿Usa entrevistas, palabras, observaciones? <br>Cualitativa<br><br>
+            </p>
+
+            <img src="imagenes/metodo.jpg" alt="Curiosidades sobre la investigación" class="img-curiosidades">
+
+            <p>
+                <b>Mira el tiempo del estudio:<br><br></b>
+                ¿Es en un solo momento? <br>Transversal<br><br>
+                ¿Sigue a las personas o fenómenos con el tiempo? <br>Longitudinal<br><br>
+            </p>
+
+            <img src="imagenes/tiempo.webp" alt="Curiosidades sobre la investigación" class="img-curiosidades">
+
+            <p>
+                <b>Revisa si interviene o no:<br><br></b>
+                ¿Hay manipulación de variables? <br>Experimental<br><br>
+                ¿Solo se observa sin intervenir? <br>No experimental / de campo / documental<br><br>
+            </p>
+
+            <img src="imagenes/manipular.jpg" alt="Curiosidades sobre la investigación" class="img-curiosidades">
+        </div>
+    </div>
+</body>
+
+</html>

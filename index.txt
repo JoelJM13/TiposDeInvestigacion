@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tipos de investigaciones :)</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+
+        <!-- Parte izquierda -->
+        <div class="left-content">
+
+            <img src="imagenes/TESI.png" alt="Investigación" class="img-izquierda">
+            <h3>Frase del día :)</h3>
+            <blockquote>"La investigación es el proceso de transformar la curiosidad en conocimiento."</blockquote>
+
+            <img src="imagenes/inves2.png" alt="Investigación" class="img-izquierda">
+
+            <h3>Integrantes del equipo:</h3>
+            <ul>
+                <li>Aguilar Peña Jhoana Michel</li>
+                <li>Plata Bautista Christopher Ricardo</li>
+                <li>Martínez Tejeda Jesús Alejandro</li>
+                <li>De Anda Cornejo Luis Emilson</li>
+                <li>Jiménez Martínez Héctor Joel</li>
+            </ul>
+
+            <h3>¿Deseas relajarte un poco?</h3>
+            <audio controls class="reproductor">
+                <source src="audio/mac.mp3" type="audio/mp3">
+                Tu navegador no soporta el elemento de audio.
+            </audio>
+
+            <img src="imagenes/inves.png" alt="Investigación" class="img-izquierda">
+
+            <h3>¿Sabes cómo recolectar datos para tu investigación?</h3>
+            <p>Antes de poder conocer cada investigación, es necesario tener en cuenta y hablar sobre las técnicas y herramientas para la recolección de datos. Aprende sobre ellas dándole clic al botón de abajo.</p>
+            <a href="paginas/tecnicas.html" class="boton-lateral">Herramientas y técnicas</a>
+        </div>
+
+
+        <!-- Parte central -->
+        <div class="content">
+            <h1>TIPOS DE INVESTIGACIONES</h1>
+            <h2>Bienvenido(a) a nuestra página web</h2>
+            <p>Aquí podrás encontrar información relevante acerca de los distintos tipos de investigaciones. Esperamos que sea de tu agrado.</p>
+
+            <h3>Propósito</h3>
+            <p>El propósito de esta página es ofrecerte una visión general sobre todo tipo de investigaciones. Es muy importante conocer cada una de ellas, puesto que en el día a día requerimos encontrar soluciones o explicaciones a sucesos, fenómenos y la razón de ser de ciertos acontecimientos. Pero antes de que puedas indagar libremente y conozcas todo acerca de los múltiples tipos de investigaciones, aprendamos lo básico.</p>
+
+            <h3>¿Qué es una investigación?</h3>
+            <p>La investigación es un proceso que busca generar conocimiento y solucionar problemas. Es un trabajo sistemático y creativo que implica recopilar, organizar y analizar información.</p>
+
+            <h3>Características</h3>
+            <p>
+                1. Es un proceso continuo y coherente. <br>
+                2. Es objetiva y lógica. <br>
+                3. Es rigurosa y valiosa. <br>
+                4. Impulsa el progreso, el conocimiento y la innovación.
+            </p>
+
+            <h3>¿Por qué hay tantos tipos de investigación?</h3>
+            <p>Hay tantos tipos de investigación porque cada enfoque se adapta a diferentes objetivos, preguntas y contextos. La gran variedad de tipos de investigación responde a la diversidad de situaciones y objetivos de los estudios, lo que permite que los investigadores elijan el enfoque más adecuado para obtener respuestas precisas y valiosas.</p>
+
+            <h3>¿Cuál elegir?</h3>
+            <p>Pues bien, elige el enfoque que te permita obtener la información que necesitas de la manera más adecuada y ética posible. Debes tener claridad sobre lo que deseas lograr con tu investigación.</p>
+        </div>
+
+
+        <!-- Parte derecha -->
+        <div class="sidebar">
+            <h2>Ing. Informática</h2>
+            <img src="imagenes/info.png" alt="Investigación" class="img-derecha">
+
+            <h2>Menú de investigaciones</h2>
+            <p>Aquí podrás encontrar cualquier tipo de investigación que más te interese, siéntete libre de explorar la que sea de tu agrado.</p>
+            <a href="paginas/pura.html">Investigación pura</a>
+            <a href="paginas/aplicada.html">Investigación aplicada</a>
+            <a href="paginas/cualitativa.html">Investigación cualitativa</a>
+            <a href="paginas/cuantitativa.html">Investigación cuantitativa</a>
+            <a href="paginas/explorativa.html">Investigación explorativa</a>
+            <a href="paginas/descriptiva.html">Investigación descriptiva</a>
+            <a href="paginas/explicativa.html">Investigación explicativa</a>
+            <a href="paginas/documental.html">Investigación documental</a>
+            <a href="paginas/de campo.html">Investigación de campo</a>
+            <a href="paginas/experimental.html">Investigación experimental</a>
+            <a href="paginas/cuasi experimental.html">Investigación cuasi experimental</a>
+            <a href="paginas/no experimental.html">Investigación no experimental</a>
+            <a href="paginas/transversal.html">Investigación transversal</a>
+            <a href="paginas/longitudinal.html">Investigación longitudinal</a>
+
+            <h2>¿Quieres la información resumida?</h2>
+            <p>En el apartado de abajo podrás encontrar información resumida de cada tipo de investigación (mapas conceptuales).</p>
+            <a href="paginas/mapas.html">Mapas conceptuales</a>
+        </div>
+
+    </div>
+
+    <script src="scrip.js"></script>
+</body>
+
+</html>

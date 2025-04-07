@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Investigación Cualitativa</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Sección izquierda - Contenido principal -->
+        <div class="content">
+            <h1>INVESTIGACIÓN CUALITATIVA</h1>
+            <p>Este es el tercer tipo de investigación que presentamos dentro de esta página web. Hablemos un poco sobre ella.</p>
+            
+            <h2>¿Qué es la investigación cualitativa?</h2>
+            <p>
+                La investigación cualitativa es un enfoque que busca comprender fenómenos desde una perspectiva subjetiva y profunda. En lugar de enfocarse en datos numéricos, se centra en la interpretación de experiencias, comportamientos y significados a través de entrevistas, observaciones y análisis de contenido.
+            </p>
+            
+            <h2>Importancia</h2>
+            <p>
+                1. Permite entender el "por qué" detrás de las acciones humanas.<br>
+                2. Explora emociones, percepciones y motivaciones que no pueden ser medidas solo con números.<br>
+                3. Es clave en áreas como la psicología, sociología, educación y mercadotecnia.<br>
+                4. Ayuda a mejorar productos y servicios mediante estudios sobre la experiencia del usuario.
+            </p>
+
+            <h2>Ejemplo</h2>
+            <h3>Investigación cualitativa sobre la ansiedad y su impacto en la vida diaria</h3>
+            <p>
+                Los investigadores en psicología han utilizado entrevistas en profundidad para entender cómo las personas con ansiedad manejan su día a día. A través de relatos personales, han identificado patrones en sus pensamientos, emociones y estrategias de afrontamiento.<br><br>
+
+                Estos estudios han permitido desarrollar terapias más efectivas, adaptadas a las experiencias reales de los pacientes, y han mejorado la forma en que los profesionales de la salud mental brindan apoyo.<br><br>
+
+                Aunque inicialmente estas investigaciones no ofrecen soluciones inmediatas, han sido fundamentales para la creación de programas de tratamiento y herramientas como la terapia cognitivo-conductual, que hoy ayudan a miles de personas en todo el mundo.
+            </p>
+
+            <h2>¿Tienes alguna duda sobre este tipo de investigación?</h2>
+            <p>
+                No te preocupes, te dejamos el siguiente mapa conceptual, el cual explica a detalle y de manera resumida de qué trata este tipo de investigación.
+            </p>
+
+            <img src="imagenes/mapas/cualitativa.jpg" alt="Mapa" class="img-mapa">
+
+            <h2>Para que todo quede más claro, te dejamos el siguiente video explicativo:</h2>
+            <p>Esperamos que con el siguiente video puedas resolver tus dudas y te quede mas claro este tipo de investigacion.
+            </p>
+
+            <video width="600" controls>
+                <source src="videos/cualitativa.mp4" type="video/mp4">
+                Tu navegador no soporta el video.
+            </video>
+        </div>
+
+        <!-- Sección derecha - Datos curiosos, imagen y botón -->
+        <div class="sidebar">
+            <a href="../index.html" class="boton-regresar">Regresar a la página principal</a>
+
+            <h2>¿Cómo saber si es una investigación cualitativa?</h2>
+            <p><strong>🔎 Pues bien, ¿acaso buscas…?</strong></p>
+            <p>
+                Entender experiencias humanas en profundidad.<br><br>
+                Analizar emociones, percepciones y significados en lugar de solo números.<br><br>
+                Explorar cómo y por qué las personas toman decisiones.
+            </p>
+
+            <p><strong>💡 ¿Te has preguntado…?</strong></p>
+            <p>
+                ¿Cómo perciben los consumidores una marca sin hacer encuestas numéricas?<br><br>
+                ¿Qué sienten los estudiantes sobre un nuevo método de enseñanza?<br><br>
+                ¿Por qué ciertos mensajes en redes sociales generan más impacto que otros?
+            </p>
+
+            <p><strong>📌 Si tus respuestas son "sí" a alguna de estas preguntas, entonces estás pensando en la investigación cualitativa.</strong></p>
+
+            <img src="imagenes/saber3.png" alt="¿Cómo saber?" class="img-curiosidades">
+
+            <h2>CURIOSIDADES</h2>
+            <p>
+                👀 Muchas películas y series usan investigación cualitativa para entender cómo las audiencias perciben ciertos personajes o historias.<br><br>
+                👀 Empresas como Apple y Google invierten en estudios cualitativos para diseñar productos más intuitivos.<br><br>
+                👀 Sigmund Freud fue uno de los pioneros en la investigación cualitativa al analizar los sueños y el subconsciente a través de relatos personales.
+            </p>
+
+            <img src="imagenes/sabias3.png" alt="Curiosidades sobre la investigación" class="img-curiosidades">
+        </div>
+    </div>
+</body>
+
+</html>

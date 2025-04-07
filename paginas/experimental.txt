@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Investigación Experimental</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <div class="container">
+
+    <!-- Sección izquierda - Contenido principal -->
+    <div class="content">
+      <h1>INVESTIGACIÓN EXPERIMENTAL</h1>
+      <p>
+        Para aquellos aficionados a realizar experimentos o aquellos que intentan encontrar resultados mediante la prueba de
+        hipótesis, este tipo de investigación te gustará.
+      </p>
+
+      <h2>¿Qué es la investigación experimental?</h2>
+      <p>
+        La investigación experimental es un método en el que se manipulan variables en un entorno controlado para observar sus
+        efectos. Su objetivo es establecer relaciones de causa y efecto entre distintos factores.<br />
+        Se basa en la aplicación de experimentos, donde los investigadores modifican una variable y observan cómo afecta a otra,
+        comparando resultados con un grupo de control.
+      </p>
+
+      <h2>Importancia</h2>
+      <p>
+        1. Permite comprobar hipótesis científicas con evidencia medible.<br />
+        2. Es la base de descubrimientos en medicina, psicología, química y física.<br />
+        3. Ayuda a desarrollar nuevos tratamientos, productos y tecnologías.<br />
+        4. Permite replicar experimentos para validar resultados y mejorar precisión.
+      </p>
+
+      <h2>Ejemplo</h2>
+      <h3>Análisis del impacto de fertilizantes en el crecimiento de plantas</h3>
+      <p>
+        En ciencias ambientales, la investigación experimental es clave para analizar cómo los fertilizantes afectan el
+        crecimiento de las plantas. Para ello, los investigadores diseñan un experimento en el que cultivan plantas en diferentes
+        condiciones y aplican distintos tipos de fertilizantes.<br />
+        Generalmente, se establecen dos grupos:<br />
+        • Grupo experimental: Recibe diferentes tipos o cantidades de fertilizante.<br />
+        • Grupo de control: No recibe fertilizante para comparar los resultados.<br />
+        A lo largo del estudio, se miden variables como altura de la planta, número de hojas, color y tiempo de crecimiento. Si
+        las plantas con fertilizante crecen más rápido y saludables que las del grupo de control, se puede concluir que el
+        fertilizante tiene un impacto positivo.<br />
+        Este tipo de investigación es importante para desarrollar prácticas agrícolas sostenibles, minimizar el uso de químicos
+        dañinos y mejorar la producción de alimentos sin afectar negativamente al medio ambiente.
+      </p>
+
+      <h2>¿Tienes alguna duda sobre este tipo de investigación?</h2>
+      <p>
+        No te preocupes, te dejamos el siguiente mapa conceptual el cual explica a detalle y de manera resumida lo que trata este
+        tipo de investigación:
+      </p>
+      <img src="imagenes/mapas/experimental.jpg" alt="Mapa" class="img-mapa" />
+
+      <h2>Para que todo quede más claro, te dejamos el siguiente video explicativo:</h2>
+      <p>
+        Esperamos que con el siguiente video puedas resolver tus dudas y te quede más claro este tipo de investigación.
+      </p>
+      <video width="600" controls>
+        <source src="videos/experimental.mp4" type="video/mp4" />
+        Tu navegador no soporta el video.
+      </video>
+    </div>
+
+    <!-- Sección derecha - Datos curiosos, imagen y botón -->
+    <div class="sidebar">
+      <a href="../index.html" class="boton-regresar">Regresar a la página principal</a>
+
+      <h2>¿Cómo saber si es una inv. experimental?</h2>
+      <b><p>🔎 Pues bien, acaso buscas…?</p></b>
+      <p>
+        Manipular variables para analizar sus efectos.<br /><br />
+        Comprobar hipótesis con pruebas en entornos controlados.<br /><br />
+        Comparar grupos de prueba y control para validar resultados.
+      </p>
+
+      <b><p>💡 ¿Te has preguntado…?</p></b>
+      <p>
+        ¿Cómo afecta la música al rendimiento académico?<br /><br />
+        ¿Qué impacto tiene una nueva dieta en la salud?<br /><br />
+        ¿Cómo reaccionan las plantas a diferentes tipos de luz?
+      </p>
+
+      <b>
+        <p>
+          📌 Si tus respuestas son "sí" a alguna de estas preguntas, entonces estás pensando en la investigación experimental.
+        </p>
+      </b>
+
+      <img src="imagenes/saber2.png" alt="¿Cómo saber?" class="img-curiosidades" />
+
+      <h2>CURIOSIDADES</h2>
+      <p>
+        👀 El famoso experimento de Pavlov con perros demostró el condicionamiento clásico en psicología.<br /><br />
+        👀 Gracias a experimentos controlados, se descubrió que el tabaco causa enfermedades pulmonares.<br /><br />
+        👀 En 1928, Alexander Fleming descubrió accidentalmente la penicilina al experimentar con bacterias.
+      </p>
+
+      <img src="imagenes/sabias2.png" alt="Curiosidades sobre la investigación" class="img-curiosidades" />
+    </div>
+
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Investigación Pura</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Sección izquierda - Contenido principal -->
+        <div class="content">
+            <h1>INVESTIGACIÓN PURA</h1>
+            <p>Esta es la primera investigación a explicar. Esperamos que el contenido sea de tu agrado y, sobre todo, te sea útil cuando realices alguna investigación, ya sea para el trabajo o por hobby.</p>
+
+            <h2>¿Qué es la investigación pura?</h2>
+            <p>La investigación pura, también llamada investigación básica o fundamental, es un tipo de estudio que busca ampliar el conocimiento sin una aplicación inmediata en mente. Su objetivo principal es entender los principios fundamentales de la naturaleza, la sociedad o el pensamiento humano.</p>
+
+            <p>A diferencia de la investigación aplicada, que se enfoca en resolver problemas concretos, la investigación pura se realiza sin un fin práctico inmediato, aunque sus descubrimientos pueden ser la base de futuras aplicaciones tecnológicas o científicas.</p>
+
+            <h2>Importancia</h2>
+            <p>
+                1. Expansión del conocimiento: Ayuda a entender mejor el mundo que nos rodea.<br>
+                2. Base para la innovación: Muchos avances tecnológicos provienen de investigaciones sin una aplicación directa en su momento.<br>
+                3. Desarrollo de teorías: Permite la formulación de leyes y modelos en diferentes campos del conocimiento.<br>
+                4. Impulso al progreso científico: Contribuye a la evolución de diversas disciplinas.<br>
+                5. Mayor comprensión de fenómenos naturales y sociales: Permite interpretar el universo desde una perspectiva más amplia.
+            </p>
+
+            <h2>Ejemplo</h2>
+            <h3>La teoría de la relatividad de Einstein</h3>
+            <p>Einstein desarrolló su Teoría de la Relatividad (1905-1915) para resolver inconsistencias entre la física clásica y el electromagnetismo. Descubrió que el tiempo y el espacio son relativos, la gravedad es una curvatura del espacio-tiempo, y que energía y masa son equivalentes (𝐸=𝑚𝑐²).</p>
+            <p>Aunque inicialmente sin aplicaciones prácticas, su teoría permitió avances como el GPS, la energía nuclear y la exploración del cosmos. Su trabajo demuestra cómo la investigación pura, sin un fin inmediato, puede transformar el mundo.</p>
+
+            <h2>¿Tienes alguna duda sobre este tipo de investigación?</h2>
+            <p>No te preocupes, aquí tienes el siguiente mapa conceptual que explica a detalle y de forma resumida en qué consiste este tipo de investigación.</p>
+            <img src="imagenes/mapas/pura.jpg" alt="Mapa" class="img-mapa">
+
+            <h2>Para que todo quede más claro, te dejamos el siguiente video explicativo:</h2>
+            <p>Esperamos que con el siguiente video puedas resolver tus dudas y te quede mas claro este tipo de investigacion.</p>
+
+            <video width="600" controls>
+                <source src="videos/pura.mp4" type="video/mp4">
+                Tu navegador no soporta el video.
+            </video>
+        </div>
+
+        <!-- Sección derecha - Datos curiosos, imagen y botón -->
+        <div class="sidebar">
+            <a href="../index.html" class="boton-regresar">Regresar a la página principal</a>
+
+            <h2>¿Cómo saber si es una investigación pura?</h2>
+
+            <h3>🔎 ¿Acaso buscas…?</h3>
+            <p>
+                ¿Entender los fundamentos teóricos de un tema sin aplicarlos de inmediato?<br><br>
+                ¿Descubrir nuevas leyes, modelos o principios científicos?<br><br>
+                ¿Responder preguntas del tipo "¿Por qué ocurre esto?" en lugar de "¿Cómo lo aplico?"<br><br>
+            </p>
+
+            <h3>💡 ¿Te has preguntado…?</h3>
+            <p>
+                ¿Cómo se formó el lenguaje que hablamos?<br><br>
+                ¿Qué hay más allá del universo observable?<br><br>
+                ¿Cómo piensan los animales o si tienen conciencia?<br><br>
+            </p>
+
+            <p><strong>📌 Si tus respuestas son “sí”, entonces estás hablando de investigación pura.</strong><br><br>
+                No busca resolver problemas del mundo real directamente, ¡pero sin ella, no existiría el conocimiento que impulsa toda la ciencia aplicada!</p>
+
+            <img src="imagenes/saber.png" alt="¿Cómo saber?" class="img-curiosidades">
+
+            <h2>CURIOSIDADES</h2>
+            <p>
+                👀 El láser nació de la investigación pura... Einstein describió la emisión estimulada en 1917 sin imaginar su utilidad; hoy en día, los láseres se usan en medicina, telecomunicaciones y más. <br><br>
+                👀 Los números primos eran solo una curiosidad matemática... Ahora son clave en la criptografía y la seguridad informática.<br><br>
+                👀 La mecánica cuántica se consideraba una teoría sin aplicaciones prácticas... Hoy es la base de la computación cuántica y la nanotecnología.<br><br>
+                👀 El descubrimiento de la penicilina fue accidental... Alexander Fleming investigaba bacterias y terminó revolucionando la medicina.
+            </p>
+
+            <img src="imagenes/sabias.png" alt="Curiosidades sobre la investigación" class="img-curiosidades">
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Investigación Descriptiva</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <div class="container">
+
+    <!-- Sección izquierda - Contenido principal -->
+    <div class="content">
+      <h1>INVESTIGACIÓN DESCRIPTIVA</h1>
+      <p>
+        Probablemente una de las investigaciones más fáciles de recordar por lo intuitivo de su nombre,
+        pero ¿será fácil de llevarla a cabo y en práctica?
+      </p>
+
+      <h2>¿Qué es la investigación descriptiva?</h2>
+      <p>
+        La investigación descriptiva es un método que busca detallar y analizar características de un fenómeno
+        sin manipular variables. Su propósito es responder preguntas como qué, cómo, cuándo y dónde sucede algo,
+        sin centrarse en el porqué.<br />
+        Se basa en la observación, encuestas, análisis de datos y estudios de caso para recopilar información precisa
+        sobre un tema específico.
+      </p>
+
+      <h2>Importancia</h2>
+      <p>
+        1. Proporciona un panorama claro y detallado de un fenómeno.<br />
+        2. Ayuda a identificar patrones y tendencias en la sociedad, la economía y la ciencia.<br />
+        3. Es esencial en áreas como marketing, educación, salud y comportamiento social.<br />
+        4. Sienta las bases para investigaciones más profundas, como estudios exploratorios o experimentales.
+      </p>
+
+      <h2>Ejemplo</h2>
+      <h3>Estudio sobre el uso de redes sociales entre adolescentes</h3>
+      <p>
+        Los sociólogos realizan estudios descriptivos para entender cómo los adolescentes utilizan las redes sociales.
+        Para ello, recopilan datos sobre qué plataformas usan con más frecuencia, cuánto tiempo pasan en ellas
+        y qué tipo de contenido consumen (videos, memes, noticias, etc.).<br />
+        Este tipo de investigación no busca explicar por qué los jóvenes usan redes sociales, sino simplemente describir
+        sus hábitos y patrones de uso.<br />
+        Los resultados de estos estudios ayudan a empresas de tecnología, educadores y especialistas en salud mental
+        a comprender el impacto de las redes en los adolescentes. Por ejemplo, si los datos muestran que pasan varias
+        horas viendo contenido de entretenimiento pero poco tiempo en materiales educativos, esto puede servir para
+        desarrollar estrategias que fomenten un uso más equilibrado de las redes.
+      </p>
+
+      <h2>¿Tienes alguna duda sobre este tipo de investigación?</h2>
+      <p>
+        No te preocupes, te dejamos el siguiente mapa conceptual el cual explica a detalle y de manera resumida
+        de lo que trata este tipo de investigación:
+      </p>
+      <img src="imagenes/mapas/descriptiva.jpg" alt="Mapa" class="img-mapa" />
+
+      <h2>Para que todo quede más claro, te dejamos el siguiente video explicativo:</h2>
+      <p>
+        Esperamos que con el siguiente video puedas resolver tus dudas y te quede más claro este tipo de investigación.
+      </p>
+      <video width="600" controls>
+        <source src="videos/descriptiva.mp4" type="video/mp4" />
+        Tu navegador no soporta el video.
+      </video>
+    </div>
+
+    <!-- Sección derecha - Datos curiosos, imagen y botón -->
+    <div class="sidebar">
+      <a href="../index.html" class="boton-regresar">Regresar a la página principal</a>
+
+      <h2>¿Cómo saber si es una inv. descriptiva?</h2>
+      <b><p>🔎 Pues bien, acaso buscas…?</p></b>
+      <p>
+        Describir un fenómeno sin modificarlo. <br /><br />
+        Obtener información detallada sin buscar causas o relaciones.<br /><br />
+        Utilizar encuestas, observaciones o análisis de datos existentes.
+      </p>
+
+      <b><p>💡 ¿Te has preguntado…?</p></b>
+      <p>
+        ¿Cuántas personas usan aplicaciones de transporte en tu ciudad? <br /><br />
+        ¿Qué hábitos de compra tienen los clientes de una tienda?<br /><br />
+        ¿Cuáles son los programas de televisión más vistos en el último año?
+      </p>
+
+      <b>
+        <p>
+          📌Si tus respuestas son "sí" a alguna de estas preguntas,
+          entonces estás pensando en la investigación descriptiva.
+        </p>
+      </b>
+
+      <img src="imagenes/saber2.png" alt="¿Cómo saber?" class="img-curiosidades" />
+
+      <h2>CURIOSIDADES</h2>
+      <p>
+        👀 Las estadísticas que vemos en los medios sobre tendencias sociales
+        son resultados de estudios descriptivos.<br /><br />
+
+        👀 Netflix usa investigación descriptiva para analizar qué géneros
+        de películas ven más los usuarios y en qué horarios.<br /><br />
+
+        👀 Muchas encuestas políticas son estudios descriptivos que buscan conocer
+        la opinión de la población sin influir en su respuesta.
+      </p>
+
+      <img src="imagenes/sabias2.png" alt="Curiosidades sobre la investigación" class="img-curiosidades" />
+    </div>
+  </div>
+</body>
+
+</html>

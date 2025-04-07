@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Herramientas y técnicas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Sección izquierda - Contenido principal -->
+        <div class="content">
+            <h1>HERRAMIENTAS Y TÉCNICAS</h1>
+            <p>Las herramientas y técnicas para la recolección de datos son fundamentales para la realización de cualquier tipo de investigación, es importante conocer las diferencias de cada una de ellas, así como también saber cuándo usarlas y de manera correcta.</p>
+
+            <h2>¿Qué es la recolección de datos?</h2>
+            <p>
+                Es el proceso mediante el cual el investigador obtiene información necesaria para responder a las preguntas de investigación, probar hipótesis o construir teorías. Este paso es crucial porque la calidad de los datos recolectados impacta directamente en los resultados del estudio.<br>
+                Dicho lo anterior, las técnicas y herramientas para la recolección de datos dentro de un proceso de investigación, son fundamentales para obtener información válida, confiable y útil para el análisis y la toma de decisiones. La elección de las técnicas y herramientas depende del tipo de investigación, los objetivos y la naturaleza del problema a estudiar.
+            </p>
+
+            <h2>Pero ¿qué es una técnica en la recolección de datos?</h2>
+            <p>Una técnica es el método o procedimiento sistemático que se sigue para obtener información. Es el cómo se recopilan los datos.</p>
+
+            <h2>Ejemplos</h2>
+
+            <h3>Encuestas o cuestionarios</h3>
+            <p>Estos son instrumentos estructurados con preguntas cerradas o abiertas aplicados a una muestra representativa. Se usan principalmente para estudios descriptivos, correlacionales, diagnósticos. Una de las ventajas de este tipo de herramientas es que recoge datos de muchas personas rápidamente, pero tiene la desventaja de que puede haber sesgo si no se formula bien o si la muestra no es representativa.</p>
+
+            <h3>Entrevistas</h3>
+            <p>Estas son conversaciones guiadas entre el investigador y el participante, que pueden variar en estructura (estructuradas, semiestructuradas o no estructuradas). Se usan especialmente en investigaciones cualitativas y estudios exploratorios. Una de sus ventajas es que permite obtener información profunda y detallada, pero presenta la desventaja de que requiere habilidades del entrevistador y puede generar sesgos si no se conduce adecuadamente.</p>
+
+            <h3>Grupos focales</h3>
+            <p>Consiste en reunir a un grupo reducido de personas para discutir un tema específico, guiados por un moderador que estimula el diálogo. Se utiliza en investigaciones cualitativas y estudios de opinión para obtener diversas perspectivas sobre un mismo fenómeno. Su ventaja es que genera información rica a través de la interacción grupal, aunque su desventaja es que puede ser difícil controlar la dinámica y algunos participantes pueden dominar la conversación.</p>
+
+            <h3>Observaciones</h3>
+            <p>Es una técnica que consiste en recolectar datos mediante la percepción directa de comportamientos, eventos o situaciones, ya sea participando activamente o desde una posición externa. Se emplea en estudios de campo, investigaciones etnográficas y análisis de comportamientos. Su principal ventaja es que permite registrar datos en su contexto real, aunque puede ser subjetiva y difícil de replicar si no se estructura adecuadamente.</p>
+
+            <h3>Pruebas o test</h3>
+            <p>Se refiere a la aplicación de instrumentos estandarizados diseñados para medir conocimientos, habilidades, actitudes o rasgos psicológicos. Es una técnica muy utilizada en investigaciones educativas, psicológicas y evaluativas. Su principal ventaja es la objetividad y la posibilidad de comparar resultados entre distintos individuos, pero tiene como desventaja que su alcance depende de la calidad y adecuación del test utilizado.</p>
+
+            <img src="imagenes/tecnicas.png" alt="Técnicas" class="img-th">
+
+            <h2>Y ¿qué son las herramientas para la recolección de datos?</h2>
+            <p>Pues bien, una herramienta es el instrumento concreto que se utiliza para aplicar la técnica. Es el con qué se recopilan los datos.<br> Existen diferentes herramientas para la recolección de datos pero las podemos dividir en dos grandes categorías:</p>
+
+            <h3>Herramientas tradicionales</h3>
+            <p>
+                1. Cuestionarios impresos<br>
+                2. Grabadoras de audio o video (para entrevistas u observaciones)<br>
+                3. Cuadernos de campo<br>
+                4. Hojas de observación<br>
+                5. Formularios físicos
+            </p>
+
+            <h3>Herramientas digitales</h3>
+            <p>
+                1. Formularios en línea (Google Forms, SurveyMonkey, Microsoft Forms)<br>
+                2. Aplicaciones de entrevistas (Zoom, Skype, Otter.ai para transcripciones)<br>
+                3. Plataformas de análisis cualitativo (NVivo, ATLAS.ti, MAXQDA)<br>
+                4. Software estadístico (SPSS, R, Excel, Stata)<br>
+                5. Grabación digital y almacenamiento en la nube<br>
+                6. Herramientas de encuestas móviles (KoBoToolbox, ODK)
+            </p>
+
+            <img src="imagenes/herramientas.png" alt="Herramientas" class="img-th">
+        </div>
+
+        <!-- Sección derecha - Datos curiosos, imagen y botón -->
+        <div class="sidebar">
+            <a href="../index.html" class="boton-regresar">Regresar a la página principal</a>
+
+            <h2>¿Qué se debe de tomar en cuenta para elegir las técnicas y herramientas adecuadas?</h2>
+            <p>
+                Naturaleza del problema: ¿Qué tipo de información necesito?<br><br>
+                Tipo de investigación: ¿Es exploratoria, descriptiva, explicativa?<br><br>
+                Recursos disponibles: Tiempo, presupuesto, equipo.<br><br>
+                Acceso al campo: ¿Puedo contactar con las personas, organizaciones o lugares necesarios?<br><br>
+                Ética: Privacidad, consentimiento informado, manejo de datos sensibles.<br><br>
+            </p>
+
+            <img src="imagenes/adecuadas.png" alt="Curiosidades sobre la investigación" class="img-curiosidades">
+
+            <h2>Algunos ejemplos rápidos podrían ser:</h2>
+
+            <h3>Técnicas</h3>
+            <p>
+                Cuestionario impreso o formulario digital<br>
+                Guía de entrevista, grabadora o libreta<br>
+                Cuaderno de campo<br>
+                Guía de discusión<br>
+                Fichas bibliográficas
+            </p>
+
+            <img src="imagenes/t.png" alt="Curiosidades sobre la investigación" class="img-curiosidades">
+
+            <h3>Herramientas</h3>
+            <p>
+                Encuesta<br>
+                Entrevista<br>
+                Observación<br>
+                Grupo focal<br>
+                Revisión documental
+            </p>
+
+            <img src="imagenes/h.png" alt="Curiosidades sobre la investigación" class="img-curiosidades">
+
+        </div>
+    </div>
+</body>
+
+</html>

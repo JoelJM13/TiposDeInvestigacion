@@ -1,0 +1,262 @@
+/* Estilos generales */
+body {
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    line-height: 1.6;
+
+    /* Fondo animado con tonos pastel */
+    background: linear-gradient(270deg, #d6e6ff, #d7f9f8, #ffffea, #fff0d4, #fbe0e0, #e5d4ef, #d6e6ff);
+    background-size: 600% 600%;
+    animation: moveBackground 25s linear infinite;
+}
+
+/* Contenedor principal */
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+    padding: 20px;
+}
+
+/* Parte izquierda - Contenido principal */
+.content {
+    flex: 1;
+    padding: 30px;
+    background-color: #FFFFFF;
+    text-align: center; /* Centra todo por defecto, se sobrescribe en párrafos */
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    color: #000000;
+    transition: all 0.3s ease;
+}
+
+.content:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Títulos y subtítulos centrados */
+.content h1,
+.content h2,
+.content h3 {
+    text-align: center;
+}
+
+.content h1 {
+    font-size: 2.5em;
+    color: #2E4620;
+    font-weight: 600;
+    border-bottom: 3px solid #A7C4A0;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.content h2 {
+    font-size: 1.8em;
+    color: #3D5B35;
+    margin-top: 30px;
+}
+
+/* Párrafos justificados */
+.content p {
+    text-align: justify;
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+/* Parte derecha - Datos curiosos y botón de regreso */
+.sidebar {
+    width: 25%;
+    background-color: #b8e0d4;
+    padding: 25px;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.05);
+    text-align: center;
+    border-radius: 12px;
+    color: #2F4F3E;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: all 0.3s ease;
+}
+
+.sidebar:hover {
+    box-shadow: -2px 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.sidebar h1 {
+    font-size: 1.8em;
+    color: #2E4620;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+/* Botón */
+.sidebar a {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 15px auto;
+    padding: 15px;
+    background-color: #1b7865;
+    border-radius: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    width: 90%;
+    text-align: center;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.sidebar a:hover {
+    background-color: #1c3e32;
+    transform: translateY(-3px);
+}
+
+/* Imágenes */
+.sabias, .img-curiosidades, .img-mapa {
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.sabias {
+    width: 85%;
+    max-width: 250px;
+}
+
+.img-curiosidades {
+    width: 85%;
+    max-width: 250px;
+    transition: all 0.3s ease;
+}
+
+
+.img-curiosidades:hover {
+    transform: scale(1.05);
+}
+
+.img-mapa {
+    width: 100%;
+    max-width: 800px;
+}
+
+/* Animación de fondo */
+@keyframes moveBackground {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+.img-th {
+    width: 100%;
+    max-width: 450px;
+}
+
+/* ------------------------- */
+/*         RESPONSIVE         */
+/* ------------------------- */
+
+/* Ajustes para pantallas de laptops de 15" o más */
+@media (max-width: 1024px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .sidebar {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .content {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .sabias, .img-curiosidades, .img-mapa {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .content h1 {
+        font-size: 2em;
+    }
+
+    .content p {
+        font-size: 1em;
+    }
+}
+
+/* Ajustes para pantallas de tablets y móviles más grandes */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+        padding: 15px;
+    }
+
+    .sidebar {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .content {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .content h1 {
+        font-size: 1.8em;
+    }
+
+    .content p {
+        font-size: 1em;
+    }
+
+    .img-curiosidades, .sabias {
+        max-width: 100%;
+    }
+
+    .img-mapa {
+        max-width: 100%;
+    }
+
+    .sidebar a {
+        width: 100%;
+    }
+}
+
+/* Ajustes para pantallas pequeñas (móviles) */
+@media (max-width: 480px) {
+    .content h1 {
+        font-size: 1.5em;
+    }
+
+    .content h2, .content h3 {
+        font-size: 1.3em;
+    }
+
+    .content p {
+        font-size: 0.95em;
+    }
+
+    .sidebar h1 {
+        font-size: 1.5em;
+    }
+
+    .sidebar a {
+        font-size: 1em;
+        padding: 12px;
+    }
+
+    .sabias, .img-curiosidades {
+        width: 90%;
+        max-width: 200px;
+    }
+
+    .img-mapa {
+        max-width: 100%;
+    }
+}

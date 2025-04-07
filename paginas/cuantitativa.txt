@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Investigación Cuantitativa</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Sección izquierda - Contenido principal -->
+        <div class="content">
+            <h1>INVESTIGACIÓN CUANTITATIVA</h1>
+            <p>El cuarto tipo de investigación. Este tipo de investigación suele ser confundido con la cualitativa, pero son muy diferentes. Ambas son investigaciones distintas, descubramos el "¿por qué?".</p>
+
+            <h2>¿Qué es la investigación cuantitativa?</h2>
+            <p>La investigación cuantitativa es un enfoque basado en la recopilación y análisis de datos numéricos. Utiliza encuestas, experimentos y estadísticas para medir fenómenos, identificar patrones y hacer predicciones objetivas. Su objetivo es obtener resultados precisos y generalizables.</p>
+
+            <h2>Importancia</h2>
+            <p>
+                1. Proporciona resultados objetivos y medibles.<br>
+                2. Permite analizar grandes cantidades de datos para tomar decisiones basadas en evidencia.<br>
+                3. Es esencial en disciplinas como economía, medicina, ingeniería y sociología.<br>
+                4. Facilita la creación de modelos predictivos en negocios, salud y tecnología.
+            </p>
+
+            <h2>Ejemplo</h2>
+            <h3>Ensayos clínicos para evaluar la efectividad de un medicamento</h3>
+            <p>
+                En la medicina, los ensayos clínicos son un tipo de investigación cuantitativa clave para comprobar la seguridad y eficacia de un nuevo medicamento. Estos estudios se realizan con grupos de pacientes, dividiéndolos en dos categorías: un grupo que recibe el medicamento y otro que recibe un placebo o tratamiento estándar.<br><br>
+
+                A través de la recolección y análisis de datos numéricos, como la reducción de síntomas o efectos secundarios, los investigadores pueden determinar si el medicamento realmente funciona y qué porcentaje de pacientes mejora con su uso.<br><br>
+
+                Gracias a este tipo de estudios, se han desarrollado tratamientos eficaces para enfermedades como la diabetes, el cáncer y el COVID-19. Aunque este proceso puede tardar años, es fundamental para garantizar la seguridad de los pacientes antes de que un medicamento llegue al mercado.
+            </p>
+
+            <h2>¿Tienes alguna duda sobre este tipo de investigación?</h2>
+            <p>No te preocupes, te dejamos el siguiente mapa conceptual, el cual explica a detalle y de manera resumida de qué trata este tipo de investigación.</p>
+            <img src="imagenes/mapas/cuantitativa.jpg" alt="Mapa" class="img-mapa">
+
+            <h2>Para que todo quede más claro, te dejamos el siguiente video explicativo:</h2>
+            <p>Esperamos que con el siguiente video puedas resolver tus dudas y te quede más claro este tipo de investigación.</p>
+            <video width="600" controls>
+                <source src="videos/cuanti.mp4" type="video/mp4">
+                Tu navegador no soporta el video.
+            </video>
+        </div>
+
+        <!-- Sección derecha - Datos curiosos, imagen y botón -->
+        <div class="sidebar">
+            <a href="../index.html" class="boton-regresar">Regresar a la página principal</a>
+
+            <h2>¿Cómo saber si es una inv. cuantitativa?</h2>
+            <b><p>🔎 Pues bien, ¿acaso buscas…?</p></b>
+            <p>
+                Obtener resultados numéricos y medibles.<br><br>
+                Analizar datos en grandes cantidades para encontrar patrones.<br><br>
+                Usar encuestas, experimentos o estadísticas en tu estudio.
+            </p>
+
+            <b><p>💡 ¿Te has preguntado…?</p></b>
+            <p>
+                ¿Cuántas personas prefieren comprar en línea en lugar de en tiendas físicas?<br><br>
+                ¿Qué porcentaje de estudiantes mejora su rendimiento con una nueva técnica de estudio?<br><br>
+                ¿Cuáles son las probabilidades de éxito de un nuevo tratamiento médico?
+            </p>
+
+            <b>📌 Si tus respuestas son "sí" a alguna de estas preguntas, entonces estás pensando en la investigación cuantitativa.</b>
+
+            <img src="imagenes/saber4.png" alt="¿Cómo saber?" class="img-curiosidades">
+
+            <h2>CURIOSIDADES</h2>
+            <p>
+                👀 Se usa en inteligencia artificial para entrenar modelos con grandes volúmenes de datos.<br><br>
+                👀 La NASA emplea investigación cuantitativa para calcular trayectorias de misiones espaciales.<br><br>
+                👀 Netflix y Spotify analizan datos cuantitativos para recomendar películas y canciones según los hábitos de los usuarios.
+            </p>
+
+            <img src="imagenes/sabias4.png" alt="Curiosidades sobre la investigación" class="img-curiosidades">
+        </div>
+    </div>
+</body>
+
+</html>

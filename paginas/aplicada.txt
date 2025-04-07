@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Investigación Aplicada</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Sección izquierda - Contenido principal -->
+        <div class="content">
+            <h1>INVESTIGACIÓN APLICADA</h1>
+            <p>Este es el segundo tipo de investigación en esta página web. Puede haber confusión entre esta y la investigación pura, pero veamos y hablemos sobre sus diferencias.</p>
+            
+            <h2>¿Qué es la investigación aplicada?</h2>
+            <p>La investigación aplicada es un tipo de investigación científica que busca resolver problemas específicos y prácticos. A diferencia de la investigación básica (pura), que se centra en generar conocimiento teórico sin una aplicación inmediata, la investigación aplicada se enfoca en desarrollar soluciones tangibles para situaciones reales.</p>
+                        
+            <h2>Importancia</h2>
+            <p>
+                1. Resuelve problemas concretos en áreas como la medicina, la ingeniería, la tecnología y la educación.<br>
+                2. Fomenta la innovación, impulsando avances en productos, servicios y procesos.<br>
+                3. Contribuye al desarrollo económico al mejorar la eficiencia en diferentes sectores.<br>
+                4. Facilita la toma de decisiones basada en evidencia en empresas y gobiernos.<br>
+            </p>
+
+            <h2>Ejemplo</h2>
+            <h3>Nuevas metodologías educativas basadas en el aprendizaje activo</h3>
+            <p>Los investigadores en educación han estudiado cómo las personas aprenden mejor, descubriendo que el aprendizaje activo mejora la retención de conocimientos y el pensamiento crítico. Métodos como el aprendizaje basado en proyectos (ABP) y la clase invertida se han desarrollado a partir de estos hallazgos.<br>
+Estas metodologías aplican principios científicos sobre la memoria y la motivación, permitiendo que los estudiantes participen activamente en su aprendizaje en lugar de solo recibir información pasivamente.<br>
+Aunque estos enfoques surgieron de investigaciones en psicología y educación sin aplicaciones inmediatas, hoy en día han revolucionado la enseñanza en escuelas y universidades, mejorando la formación de estudiantes en todo el mundo.</p>
+
+            <h2>¿Tienes alguna duda sobre este tipo de investigación?</h2>
+            <p>No te preocupes, te dejamos el siguiente mapa conceptual que explica a detalle y de manera resumida en qué consiste este tipo de investigación.</p>
+            <img src="imagenes/mapas/aplicada.jpg" alt="Mapa" class="img-mapa">
+
+            <h2>Para que todo quede más claro, te dejamos el siguiente video explicativo:</h2>
+            <p>Esperamos que con el siguiente video puedas resolver tus dudas y te quede mas claro este tipo de investigacion.</p>
+
+            <video width="600" controls>
+                <source src="videos/pura.mp4" type="video/mp4">
+                Tu navegador no soporta el video.
+            </video>
+        </div>
+
+        <!-- Sección derecha - Datos curiosos, imagen y botón -->
+        <div class="sidebar">
+            <a href="../index.html" class="boton-regresar">Regresar a la página principal</a>
+
+            <h2>¿Cómo saber si es una investigación aplicada?</h2>
+
+            <h3>🔎 ¿Acaso buscas…?</h3>
+            <p>
+                Resolver un problema real con conocimientos científicos.<br><br>
+                Mejorar un producto o servicio con datos y experimentos.<br><br>
+                Aplicar teorías para hacer algo más eficiente o innovador.<br><br>
+            </p>
+
+            <h3>💡 ¿Te has preguntado…?</h3>
+            <p>
+                ¿Cómo hacen los médicos para desarrollar nuevos tratamientos?<br><br>
+                ¿Por qué la tecnología avanza tan rápido con nuevos productos cada año?<br><br>
+                ¿Qué procesos hay detrás de una app o un sistema inteligente?<br><br>
+            </p>
+
+            <p><strong>📌 Si tus respuestas son “sí” a alguna de estas preguntas, entonces estás pensando en investigación aplicada.</strong></p>
+
+            <img src="imagenes/saber2.png" alt="¿Cómo saber?" class="img-curiosidades">
+
+            <h2>CURIOSIDADES</h2>
+            <p>
+                👀 El WiFi fue desarrollado gracias a investigaciones aplicadas en astronomía.<br><br>
+                👀 Muchos avances en videojuegos provienen de investigaciones aplicadas en física y computación.<br><br>
+                👀 Google Maps y otras apps de navegación utilizan algoritmos optimizados a partir de investigación aplicada en geolocalización.<br><br>
+            </p>
+
+            <img src="imagenes/sabias2.png" alt="Curiosidades sobre la investigación" class="img-curiosidades">
+        </div>
+    </div>
+</body>
+
+</html>

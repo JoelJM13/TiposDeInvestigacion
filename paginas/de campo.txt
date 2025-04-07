@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Investigación De Campo</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <div class="container">
+
+    <!-- Sección izquierda - Contenido principal -->
+    <div class="content">
+      <h1>INVESTIGACIÓN DE CAMPO</h1>
+      <p>
+        Este tipo de investigación puede que sea una de las más divertidas e interesantes y no es para menos puesto que
+        directamente vas al lugar de los sucesos/hechos.
+      </p>
+
+      <h2>¿Qué es la investigación de campo?</h2>
+      <p>
+        La investigación de campo es un método que consiste en recopilar datos directamente del entorno donde ocurre un
+        fenómeno, sin depender exclusivamente de fuentes escritas o teóricas. Se basa en observaciones, entrevistas,
+        encuestas y experimentos realizados en el lugar de estudio.
+      </p>
+
+      <h2>Importancia</h2>
+      <p>
+        1. Permite obtener información real y actualizada sobre un fenómeno.<br />
+        2. Es esencial en ciencias sociales, biología, ecología, marketing y antropología.<br />
+        3. Facilita la identificación de patrones y tendencias en entornos naturales.<br />
+        4. Ayuda a comprobar hipótesis mediante la recolección de datos en situaciones reales.
+      </p>
+
+      <h2>Ejemplo</h2>
+      <h3>Estudio sobre las costumbres de una comunidad indígena</h3>
+      <p>
+        En antropología, la investigación de campo es fundamental para comprender la cultura, tradiciones y formas de vida de
+        diferentes comunidades. Para ello, los investigadores conviven con los habitantes, participan en sus actividades
+        diarias y realizan entrevistas para conocer sus creencias, valores y prácticas sociales.<br />
+        Por ejemplo, un antropólogo que estudia una comunidad indígena puede documentar sus rituales, su forma de
+        organización social y su relación con la naturaleza. Al obtener información directamente en el lugar, logra una
+        perspectiva más profunda y realista que no se puede conseguir solo con libros o documentos.<br />
+        Este tipo de estudio es clave para preservar el patrimonio cultural de los pueblos indígenas y entender la diversidad
+        de formas de vida en el mundo. Además, los resultados pueden influir en políticas públicas para la protección de estas
+        comunidades y su conocimiento ancestral.
+      </p>
+
+      <h2>¿Tienes alguna duda sobre este tipo de investigación?</h2>
+      <p>
+        No te preocupes, te dejamos el siguiente mapa conceptual el cual explica a detalle y de manera resumida de lo que
+        trata este tipo de investigación:
+      </p>
+      <img src="imagenes/mapas/de campo.jpg" alt="Mapa" class="img-mapa" />
+
+      <h2>Para que todo quede más claro, te dejamos el siguiente video explicativo:</h2>
+      <p>
+        Esperamos que con el siguiente video puedas resolver tus dudas y te quede más claro este tipo de investigación.
+      </p>
+      <video width="600" controls>
+        <source src="videos/de campo.mp4" type="video/mp4" />
+        Tu navegador no soporta el video.
+      </video>
+    </div>
+
+    <!-- Sección derecha - Datos curiosos, imagen y botón -->
+    <div class="sidebar">
+      <a href="../index.html" class="boton-regresar">Regresar a la página principal</a>
+
+      <h2>¿Cómo saber si es una investigación de campo?</h2>
+      <b><p>🔎 Pues bien, acaso buscas…?</p></b>
+      <p>
+        Obtener datos directamente del lugar donde ocurre un fenómeno.<br /><br />
+        Usar observaciones, entrevistas o encuestas en entornos reales.<br /><br />
+        Recoger información fresca y de primera mano.
+      </p>
+
+      <b><p>💡 ¿Te has preguntado…?</p></b>
+      <p>
+        ¿Cómo afecta la contaminación al ecosistema de un río en tu ciudad?<br /><br />
+        ¿Qué opinan los clientes sobre un nuevo producto en una tienda?<br /><br />
+        ¿Cuáles son los hábitos de movilidad de los habitantes de una comunidad?
+      </p>
+
+      <b>
+        <p>
+          📌 Si tus respuestas son "sí" a alguna de estas preguntas, entonces estás pensando en la investigación de campo.
+        </p>
+      </b>
+
+      <img src="imagenes/saber.png" alt="¿Cómo saber?" class="img-curiosidades" />
+
+      <h2>CURIOSIDADES</h2>
+      <p>
+        👀 Charles Darwin realizó una investigación de campo durante su viaje en el HMS Beagle, lo que le ayudó a desarrollar
+        la teoría de la evolución. <br /><br />
+        👀 Muchas estrategias de marketing digital se basan en estudios de campo previos sobre el comportamiento del consumidor.<br /><br />
+        👀 Los arqueólogos dependen de la investigación de campo para descubrir y analizar restos de civilizaciones antiguas.
+      </p>
+
+      <img src="imagenes/sabias.png" alt="Curiosidades sobre la investigación" class="img-curiosidades" />
+    </div>
+
+  </div>
+</body>
+
+</html>

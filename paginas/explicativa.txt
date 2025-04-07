@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Investigación Explicativa</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <div class="container">
+
+    <!-- Sección izquierda - Contenido principal -->
+    <div class="content">
+      <h1>INVESTIGACIÓN EXPLICATIVA</h1>
+      <p>
+        De igual manera, consideremos que este tipo de investigación es muy fácil recordar, pero descubramos
+        de qué trata este tipo de investigación.
+      </p>
+
+      <h2>¿Qué es la investigación explicativa?</h2>
+      <p>
+        La investigación explicativa es un tipo de estudio que busca responder al "por qué" de un fenómeno.
+        No solo describe lo que sucede (como la investigación descriptiva), sino que analiza causas, efectos y
+        relaciones entre variables.<br />
+        Este enfoque se usa para entender cómo y por qué ocurren ciertos eventos, permitiendo generar teorías y
+        modelos científicos.
+      </p>
+
+      <h2>Importancia</h2>
+      <p>
+        1. Ayuda a comprender las causas de un problema y sus efectos.<br />
+        2. Es clave en ciencias como la psicología, economía, biología y sociología.<br />
+        3. Permite predecir fenómenos y proponer soluciones basadas en evidencia.<br />
+        4. Es la base para el desarrollo de nuevas teorías y leyes científicas.
+      </p>
+
+      <h2>Ejemplo</h2>
+      <h3>Análisis de cómo el aumento del salario mínimo influye en la inflación</h3>
+      <p>
+        Los economistas realizan estudios explicativos para comprender la relación entre el aumento del salario
+        mínimo y la inflación. No solo se limitan a describir si los precios suben, sino que investigan por qué
+        ocurre y qué factores intervienen en este proceso.<br />
+        Para ello, analizan datos históricos de diferentes países y períodos de tiempo, observando si el incremento
+        de los salarios genera mayor poder adquisitivo en la población, lo que puede llevar a un aumento en la
+        demanda de bienes y servicios. Si la oferta no crece al mismo ritmo, los precios suben, generando inflación.<br />
+        Este tipo de estudio es clave para que los gobiernos tomen decisiones informadas sobre políticas salariales
+        y económicas, buscando un equilibrio entre mejorar los ingresos de los trabajadores sin generar efectos
+        negativos en la economía.
+      </p>
+
+      <h2>¿Tienes alguna duda sobre este tipo de investigación?</h2>
+      <p>
+        No te preocupes, te dejamos el siguiente mapa conceptual el cual explica a detalle y de manera resumida
+        de lo que trata este tipo de investigación:
+      </p>
+      <img src="imagenes/mapas/explicativa.jpg" alt="Mapa" class="img-mapa" />
+
+      <h2>Para que todo quede más claro, te dejamos el siguiente video explicativo:</h2>
+      <p>
+        Esperamos que con el siguiente video puedas resolver tus dudas y te quede más claro este tipo de investigación.
+      </p>
+      <video width="600" controls>
+        <source src="videos/explicativa.mp4" type="video/mp4" />
+        Tu navegador no soporta el video.
+      </video>
+    </div>
+
+    <!-- Sección derecha - Datos curiosos, imagen y botón -->
+    <div class="sidebar">
+      <a href="../index.html" class="boton-regresar">Regresar a la página principal</a>
+
+      <h2>¿Cómo saber si es una inv. explicativa?</h2>
+      <b><p>🔎 Pues bien, acaso buscas…?</p></b>
+      <p>
+        Entender las causas y efectos de un fenómeno.<br /><br />
+        Explicar por qué ocurre algo y cómo se relacionan distintos factores.<br /><br />
+        Usar experimentos, análisis de datos y modelos científicos.
+      </p>
+
+      <b><p>💡 ¿Te has preguntado…?</p></b>
+      <p>
+        ¿Por qué algunas personas son más propensas a la ansiedad que otras? <br /><br />
+        ¿Cómo influyen las redes sociales en la autoestima de los adolescentes?<br /><br />
+        ¿Por qué el calentamiento global está acelerándose?
+      </p>
+
+      <b>
+        <p>
+          📌Si tus respuestas son "sí" a alguna de estas preguntas,
+          entonces estás pensando en la investigación explicativa.
+        </p>
+      </b>
+
+      <img src="imagenes/saber3.png" alt="¿Cómo saber?" class="img-curiosidades" />
+
+      <h2>CURIOSIDADES</h2>
+      <p>
+        👀 Muchas teorías científicas, como la ley de la gravedad o la evolución, nacieron de estudios explicativos.<br /><br />
+        👀 Se usa en criminología para analizar las causas del comportamiento delictivo.<br /><br />
+        👀 Gracias a la investigación explicativa, sabemos que el cambio climático está directamente relacionado
+        con la actividad humana.
+      </p>
+
+      <img src="imagenes/sabias3.png" alt="Curiosidades sobre la investigación" class="img-curiosidades" />
+    </div>
+
+  </div>
+</body>
+
+</html>
